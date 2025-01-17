@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0365922.css",
-    "main.js": "/static/js/main.4c0499c9.js",
-    "static/js/488.d3a5d4e0.chunk.js": "/static/js/488.d3a5d4e0.chunk.js",
-    "index.html": "/index.html",
-    "main.a0365922.css.map": "/static/css/main.a0365922.css.map",
-    "main.4c0499c9.js.map": "/static/js/main.4c0499c9.js.map",
-    "488.d3a5d4e0.chunk.js.map": "/static/js/488.d3a5d4e0.chunk.js.map"
+    "main.css": "/Crowdfunding_DApp/static/css/main.a0365922.css",
+    "main.js": "/Crowdfunding_DApp/static/js/main.e0861a15.js",
+    "static/js/488.d3a5d4e0.chunk.js": "/Crowdfunding_DApp/static/js/488.d3a5d4e0.chunk.js",
+    "index.html": "/Crowdfunding_DApp/index.html",
+    "main.a0365922.css.map": "/Crowdfunding_DApp/static/css/main.a0365922.css.map",
+    "main.e0861a15.js.map": "/Crowdfunding_DApp/static/js/main.e0861a15.js.map",
+    "488.d3a5d4e0.chunk.js.map": "/Crowdfunding_DApp/static/js/488.d3a5d4e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0365922.css",
-    "static/js/main.4c0499c9.js"
+    "static/js/main.e0861a15.js"
   ]
 }
